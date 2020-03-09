@@ -1,4 +1,6 @@
 # S0urce.io-Automatique-BOT-hack
+# Please do not attempt to use this program for profit or commercial purposes
+
 
 Comment mettre en place le BOT sur S0urce.io
 
